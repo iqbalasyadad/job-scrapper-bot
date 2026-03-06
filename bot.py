@@ -31,6 +31,9 @@ import scraper_linkedin
 
 # ── Logging ───────────────────────────────────────────────────────────────────
 logging.basicConfig(format="%(asctime)s [%(levelname)s] %(message)s", level=logging.INFO)
+logging.getLogger("httpx").setLevel(logging.WARNING)
+logging.getLogger("telegram.ext").setLevel(logging.WARNING)
+
 log = logging.getLogger(__name__)
 
 # ── Secrets from .env ─────────────────────────────────────────────────────────
