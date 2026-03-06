@@ -1,0 +1,15 @@
+# ── Search Settings ───────────────────────────────────────────────────────────
+keywords:
+  - geophysics
+
+location:
+  - Indonesia
+
+# ── Browser Settings ──────────────────────────────────────────────────────────
+# Match this to your installed Chrome version  →  chrome --version
+driver_version: "145"
+
+# ── Telegram ──────────────────────────────────────────────────────────────────
+telegram:
+  bot_token: "8245878155:AAGQuISQCKBAXVHHlNkRHfBMX9Q-EPRUt7c"
+  chat_id: "5242162687"

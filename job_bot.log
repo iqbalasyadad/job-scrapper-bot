@@ -1,0 +1,820 @@
+15:42:24 [INFO] ✅ Database ready.
+15:42:24 [INFO] 
+═══════════════════════════════════════════════════════
+15:42:24 [INFO] 🔍 Keyword: 'geophysics' | Location: 'Indonesia'
+15:42:24 [INFO] ═══════════════════════════════════════════════════════
+15:42:24 [INFO] 🔍 Scraping: 'geophysics' in 'Indonesia' (3 pages)
+15:42:28 [INFO] 🌐 Opening Indeed homepage...
+15:42:28 [INFO] open() in UC Mode now always activates CDP Mode.
+15:42:40 [INFO] 
+📄 Page 1/3 → https://id.indeed.com/jobs?q=geophysics&l=Indonesia&start=0&filter=0
+15:42:46 [INFO] Cloudflare detected — attempting to solve...
+15:42:51 [INFO]   🔄 Still on challenge... (59s left — solve manually if needed)
+15:42:54 [INFO]   🔄 Still on challenge... (56s left — solve manually if needed)
+15:42:57 [INFO] ✅ Cloudflare cleared.
+15:43:04 [INFO]   Found 4 job cards
+15:43:04 [INFO]   ✅ +4 new (total: 4)
+15:43:04 [INFO]   ⏳ Next page in 7.2s...
+15:43:11 [INFO] 
+📄 Page 2/3 → https://id.indeed.com/jobs?q=geophysics&l=Indonesia&start=10&filter=0
+15:43:22 [INFO]   ✅ +0 new (total: 4)
+15:43:22 [INFO]   No new jobs found — stopping early.
+15:43:25 [INFO] 
+🏁 Done. Total jobs scraped: 4
+15:43:33 [INFO]   📨 Sent: Unknown Title @ Unknown
+15:43:33 [INFO]   ✅ 1 new jobs saved for 'geophysics' in 'Indonesia'
+15:43:33 [INFO] 
+═══════════════════════════════════════════════════════
+15:43:33 [INFO] 🔍 Keyword: 'geophysics' | Location: 'Singapore'
+15:43:33 [INFO] ═══════════════════════════════════════════════════════
+15:43:33 [INFO] 🔍 Scraping: 'geophysics' in 'Singapore' (3 pages)
+15:43:38 [INFO] 🌐 Opening Indeed homepage...
+15:43:38 [INFO] open() in UC Mode now always activates CDP Mode.
+15:43:50 [INFO] 
+📄 Page 1/3 → https://id.indeed.com/jobs?q=geophysics&l=Singapore&start=0&filter=0
+15:44:00 [INFO]   Found 4 job cards
+15:44:00 [INFO]   ✅ +4 new (total: 4)
+15:44:00 [INFO]   ⏳ Next page in 6.8s...
+15:44:07 [INFO] 
+📄 Page 2/3 → https://id.indeed.com/jobs?q=geophysics&l=Singapore&start=10&filter=0
+15:44:18 [INFO]   ✅ +0 new (total: 4)
+15:44:18 [INFO]   No new jobs found — stopping early.
+15:44:25 [INFO] 
+🏁 Done. Total jobs scraped: 4
+15:44:25 [INFO]   ✅ 0 new jobs saved for 'geophysics' in 'Singapore'
+15:44:25 [INFO] 
+═══════════════════════════════════════════════════════
+15:44:25 [INFO] 🔍 Keyword: 'geophysics' | Location: 'Malaysia'
+15:44:25 [INFO] ═══════════════════════════════════════════════════════
+15:44:25 [INFO] 🔍 Scraping: 'geophysics' in 'Malaysia' (3 pages)
+15:44:29 [INFO] 🌐 Opening Indeed homepage...
+15:44:29 [INFO] open() in UC Mode now always activates CDP Mode.
+15:44:41 [INFO] 
+📄 Page 1/3 → https://id.indeed.com/jobs?q=geophysics&l=Malaysia&start=0&filter=0
+15:44:47 [INFO] Cloudflare detected — attempting to solve...
+15:44:52 [INFO] ✅ Cloudflare cleared.
+15:44:58 [INFO]   Found 4 job cards
+15:44:58 [INFO]   ✅ +4 new (total: 4)
+15:44:58 [INFO]   ⏳ Next page in 6.3s...
+15:45:04 [INFO] 
+📄 Page 2/3 → https://id.indeed.com/jobs?q=geophysics&l=Malaysia&start=10&filter=0
+15:45:15 [INFO]   ✅ +0 new (total: 4)
+15:45:15 [INFO]   No new jobs found — stopping early.
+15:45:22 [INFO] 
+🏁 Done. Total jobs scraped: 4
+15:45:22 [INFO]   ✅ 0 new jobs saved for 'geophysics' in 'Malaysia'
+15:45:22 [INFO] 
+═══════════════════════════════════════════════════════
+15:45:22 [INFO] 🔍 Keyword: 'geophysicist' | Location: 'Indonesia'
+15:45:22 [INFO] ═══════════════════════════════════════════════════════
+15:45:22 [INFO] 🔍 Scraping: 'geophysicist' in 'Indonesia' (3 pages)
+15:45:26 [INFO] 🌐 Opening Indeed homepage...
+15:45:26 [INFO] open() in UC Mode now always activates CDP Mode.
+15:45:39 [INFO] 
+📄 Page 1/3 → https://id.indeed.com/jobs?q=geophysicist&l=Indonesia&start=0&filter=0
+15:45:50 [INFO]   Found 9 job cards
+15:45:50 [INFO]   ✅ +9 new (total: 9)
+15:45:50 [INFO]   ⏳ Next page in 5.2s...
+15:45:55 [INFO] 
+📄 Page 2/3 → https://id.indeed.com/jobs?q=geophysicist&l=Indonesia&start=10&filter=0
+15:46:06 [INFO]   ✅ +0 new (total: 9)
+15:46:06 [INFO]   No new jobs found — stopping early.
+15:46:14 [INFO] 
+🏁 Done. Total jobs scraped: 9
+15:46:14 [INFO]   ✅ 0 new jobs saved for 'geophysicist' in 'Indonesia'
+15:46:14 [INFO] 
+═══════════════════════════════════════════════════════
+15:46:14 [INFO] 🔍 Keyword: 'geophysicist' | Location: 'Singapore'
+15:46:14 [INFO] ═══════════════════════════════════════════════════════
+15:46:14 [INFO] 🔍 Scraping: 'geophysicist' in 'Singapore' (3 pages)
+15:46:18 [INFO] 🌐 Opening Indeed homepage...
+15:46:18 [INFO] open() in UC Mode now always activates CDP Mode.
+15:46:32 [INFO] 
+📄 Page 1/3 → https://id.indeed.com/jobs?q=geophysicist&l=Singapore&start=0&filter=0
+15:46:43 [INFO]   Found 9 job cards
+15:46:43 [INFO]   ✅ +9 new (total: 9)
+15:46:43 [INFO]   ⏳ Next page in 7.4s...
+15:46:51 [INFO] 
+📄 Page 2/3 → https://id.indeed.com/jobs?q=geophysicist&l=Singapore&start=10&filter=0
+15:47:01 [INFO]   ✅ +0 new (total: 9)
+15:47:01 [INFO]   No new jobs found — stopping early.
+15:47:09 [INFO] 
+🏁 Done. Total jobs scraped: 9
+15:47:09 [INFO]   ✅ 0 new jobs saved for 'geophysicist' in 'Singapore'
+15:47:09 [INFO] 
+═══════════════════════════════════════════════════════
+15:47:09 [INFO] 🔍 Keyword: 'geophysicist' | Location: 'Malaysia'
+15:47:09 [INFO] ═══════════════════════════════════════════════════════
+15:47:09 [INFO] 🔍 Scraping: 'geophysicist' in 'Malaysia' (3 pages)
+15:47:13 [INFO] 🌐 Opening Indeed homepage...
+15:47:13 [INFO] open() in UC Mode now always activates CDP Mode.
+15:47:24 [INFO] 
+📄 Page 1/3 → https://id.indeed.com/jobs?q=geophysicist&l=Malaysia&start=0&filter=0
+15:47:34 [INFO]   Found 9 job cards
+15:47:34 [INFO]   ✅ +9 new (total: 9)
+15:47:34 [INFO]   ⏳ Next page in 6.7s...
+15:47:41 [INFO] 
+📄 Page 2/3 → https://id.indeed.com/jobs?q=geophysicist&l=Malaysia&start=10&filter=0
+15:47:51 [INFO]   ✅ +0 new (total: 9)
+15:47:51 [INFO]   No new jobs found — stopping early.
+15:47:59 [INFO] 
+🏁 Done. Total jobs scraped: 9
+15:47:59 [INFO]   ✅ 0 new jobs saved for 'geophysicist' in 'Malaysia'
+15:47:59 [INFO] 
+═══════════════════════════════════════════════════════
+15:47:59 [INFO] 🔍 Keyword: 'seismic' | Location: 'Indonesia'
+15:47:59 [INFO] ═══════════════════════════════════════════════════════
+15:47:59 [INFO] 🔍 Scraping: 'seismic' in 'Indonesia' (3 pages)
+15:48:02 [INFO] 🌐 Opening Indeed homepage...
+15:48:02 [INFO] open() in UC Mode now always activates CDP Mode.
+15:48:15 [INFO] 
+📄 Page 1/3 → https://id.indeed.com/jobs?q=seismic&l=Indonesia&start=0&filter=0
+15:48:25 [INFO]   Found 10 job cards
+15:48:25 [INFO]   ✅ +10 new (total: 10)
+15:48:25 [INFO]   ⏳ Next page in 6.4s...
+15:48:32 [INFO] 
+📄 Page 2/3 → https://id.indeed.com/jobs?q=seismic&l=Indonesia&start=10&filter=0
+15:48:43 [INFO]   ✅ +0 new (total: 10)
+15:48:43 [INFO]   No new jobs found — stopping early.
+15:48:50 [INFO] 
+🏁 Done. Total jobs scraped: 10
+15:48:50 [INFO]   ✅ 0 new jobs saved for 'seismic' in 'Indonesia'
+15:48:50 [INFO] 
+═══════════════════════════════════════════════════════
+15:48:50 [INFO] 🔍 Keyword: 'seismic' | Location: 'Singapore'
+15:48:50 [INFO] ═══════════════════════════════════════════════════════
+15:48:50 [INFO] 🔍 Scraping: 'seismic' in 'Singapore' (3 pages)
+15:48:54 [INFO] 🌐 Opening Indeed homepage...
+15:48:54 [INFO] open() in UC Mode now always activates CDP Mode.
+15:49:06 [INFO] 
+📄 Page 1/3 → https://id.indeed.com/jobs?q=seismic&l=Singapore&start=0&filter=0
+15:49:16 [INFO]   Found 10 job cards
+15:49:16 [INFO]   ✅ +10 new (total: 10)
+15:49:16 [INFO]   ⏳ Next page in 8.1s...
+15:49:24 [INFO] 
+📄 Page 2/3 → https://id.indeed.com/jobs?q=seismic&l=Singapore&start=10&filter=0
+15:49:35 [INFO]   ✅ +0 new (total: 10)
+15:49:35 [INFO]   No new jobs found — stopping early.
+15:49:43 [INFO] 
+🏁 Done. Total jobs scraped: 10
+15:49:43 [INFO]   ✅ 0 new jobs saved for 'seismic' in 'Singapore'
+15:49:43 [INFO] 
+═══════════════════════════════════════════════════════
+15:49:43 [INFO] 🔍 Keyword: 'seismic' | Location: 'Malaysia'
+15:49:43 [INFO] ═══════════════════════════════════════════════════════
+15:49:43 [INFO] 🔍 Scraping: 'seismic' in 'Malaysia' (3 pages)
+15:49:47 [INFO] 🌐 Opening Indeed homepage...
+15:49:47 [INFO] open() in UC Mode now always activates CDP Mode.
+15:49:58 [INFO] 
+📄 Page 1/3 → https://id.indeed.com/jobs?q=seismic&l=Malaysia&start=0&filter=0
+15:50:09 [INFO]   Found 10 job cards
+15:50:09 [INFO]   ✅ +10 new (total: 10)
+15:50:09 [INFO]   ⏳ Next page in 8.5s...
+15:50:18 [INFO] 
+📄 Page 2/3 → https://id.indeed.com/jobs?q=seismic&l=Malaysia&start=10&filter=0
+15:50:28 [INFO]   ✅ +0 new (total: 10)
+15:50:28 [INFO]   No new jobs found — stopping early.
+15:50:36 [INFO] 
+🏁 Done. Total jobs scraped: 10
+15:50:36 [INFO]   ✅ 0 new jobs saved for 'seismic' in 'Malaysia'
+15:50:36 [INFO] 
+═══════════════════════════════════════════════════════
+15:50:36 [INFO] 🔍 Keyword: 'reservoir' | Location: 'Indonesia'
+15:50:36 [INFO] ═══════════════════════════════════════════════════════
+15:50:36 [INFO] 🔍 Scraping: 'reservoir' in 'Indonesia' (3 pages)
+15:50:40 [INFO] 🌐 Opening Indeed homepage...
+15:50:40 [INFO] open() in UC Mode now always activates CDP Mode.
+15:50:51 [INFO] 
+📄 Page 1/3 → https://id.indeed.com/jobs?q=reservoir&l=Indonesia&start=0&filter=0
+15:51:01 [INFO]   Found 11 job cards
+15:51:01 [INFO]   ✅ +11 new (total: 11)
+15:51:01 [INFO]   ⏳ Next page in 6.5s...
+15:51:08 [INFO] 
+📄 Page 2/3 → https://id.indeed.com/jobs?q=reservoir&l=Indonesia&start=10&filter=0
+15:51:17 [INFO]   ✅ +0 new (total: 11)
+15:51:17 [INFO]   No new jobs found — stopping early.
+15:51:25 [INFO] 
+🏁 Done. Total jobs scraped: 11
+15:51:25 [INFO]   ✅ 0 new jobs saved for 'reservoir' in 'Indonesia'
+15:51:25 [INFO] 
+═══════════════════════════════════════════════════════
+15:51:25 [INFO] 🔍 Keyword: 'reservoir' | Location: 'Singapore'
+15:51:25 [INFO] ═══════════════════════════════════════════════════════
+15:51:25 [INFO] 🔍 Scraping: 'reservoir' in 'Singapore' (3 pages)
+15:51:29 [INFO] 🌐 Opening Indeed homepage...
+15:51:29 [INFO] open() in UC Mode now always activates CDP Mode.
+15:51:41 [INFO] 
+📄 Page 1/3 → https://id.indeed.com/jobs?q=reservoir&l=Singapore&start=0&filter=0
+15:51:51 [INFO]   Found 11 job cards
+15:51:51 [INFO]   ✅ +11 new (total: 11)
+15:51:51 [INFO]   ⏳ Next page in 8.2s...
+15:51:59 [INFO] 
+📄 Page 2/3 → https://id.indeed.com/jobs?q=reservoir&l=Singapore&start=10&filter=0
+15:52:10 [INFO]   ✅ +0 new (total: 11)
+15:52:10 [INFO]   No new jobs found — stopping early.
+15:52:18 [INFO] 
+🏁 Done. Total jobs scraped: 11
+15:52:18 [INFO]   ✅ 0 new jobs saved for 'reservoir' in 'Singapore'
+15:52:18 [INFO] 
+═══════════════════════════════════════════════════════
+15:52:18 [INFO] 🔍 Keyword: 'reservoir' | Location: 'Malaysia'
+15:52:18 [INFO] ═══════════════════════════════════════════════════════
+15:52:18 [INFO] 🔍 Scraping: 'reservoir' in 'Malaysia' (3 pages)
+15:52:22 [INFO] 🌐 Opening Indeed homepage...
+15:52:22 [INFO] open() in UC Mode now always activates CDP Mode.
+15:52:34 [INFO] 
+📄 Page 1/3 → https://id.indeed.com/jobs?q=reservoir&l=Malaysia&start=0&filter=0
+15:52:40 [INFO] Cloudflare detected — attempting to solve...
+15:52:47 [INFO] ✅ Cloudflare cleared.
+15:52:54 [INFO]   Found 16 job cards
+15:52:54 [INFO]   ✅ +16 new (total: 16)
+15:52:54 [INFO]   ⏳ Next page in 8.5s...
+15:53:03 [INFO] 
+📄 Page 2/3 → https://id.indeed.com/jobs?q=reservoir&l=Malaysia&start=10&filter=0
+15:53:13 [INFO]   ✅ +0 new (total: 16)
+15:53:13 [INFO]   No new jobs found — stopping early.
+15:53:20 [INFO] 
+🏁 Done. Total jobs scraped: 16
+15:53:20 [INFO]   ✅ 0 new jobs saved for 'reservoir' in 'Malaysia'
+15:53:20 [INFO] 
+🏁 Run complete. 1 new jobs found and sent.
+01:19:32 [INFO] ✅ Database ready.
+01:19:37 [INFO] 
+📋 2 keywords × 3 locations = 6 searches (page 1 only — no login)
+
+01:19:37 [INFO] 
+═══════════════════════════════════════════════════════
+01:19:37 [INFO] [Keyword 1/2] 'geophysics'
+01:19:37 [INFO] ═══════════════════════════════════════════════════════
+01:19:37 [INFO] 🔍 Opening Indeed and searching keyword: 'geophysics'
+01:19:37 [INFO] open() in UC Mode now always activates CDP Mode.
+01:19:44 [ERROR] Keyword search error for 'geophysics': 'NoneType' object is not callable
+01:19:44 [WARNING]   Keyword search failed — skipping 'geophysics'.
+01:19:44 [INFO] 
+═══════════════════════════════════════════════════════
+01:19:44 [INFO] [Keyword 2/2] 'seismic'
+01:19:44 [INFO] ═══════════════════════════════════════════════════════
+01:19:44 [INFO] 🔍 Opening Indeed and searching keyword: 'seismic'
+01:19:49 [ERROR] Keyword search error for 'seismic': 'NoneType' object is not callable
+01:19:49 [WARNING]   Keyword search failed — skipping 'seismic'.
+01:19:52 [INFO] 
+🏁 Scraping complete. Total jobs: 0
+01:19:52 [INFO] 
+🏁 Done. 0 new jobs saved and sent out of 0 scraped.
+01:26:39 [INFO] ✅ Database ready.
+01:26:44 [INFO] 
+📋 2 keywords × 3 locations = 6 searches (page 1 only — no login)
+
+01:26:44 [INFO] 
+═══════════════════════════════════════════════════════
+01:26:44 [INFO] [Keyword 1/2] 'geophysics'
+01:26:44 [INFO] ═══════════════════════════════════════════════════════
+01:26:44 [INFO] 🔍 Opening Indeed and searching keyword: 'geophysics'
+01:26:44 [INFO] open() in UC Mode now always activates CDP Mode.
+01:26:51 [ERROR] Keyword search error for 'geophysics': 'NoneType' object is not callable
+01:26:51 [WARNING]   Keyword search failed — skipping 'geophysics'.
+01:26:51 [INFO] 
+═══════════════════════════════════════════════════════
+01:26:51 [INFO] [Keyword 2/2] 'seismic'
+01:26:51 [INFO] ═══════════════════════════════════════════════════════
+01:26:51 [INFO] 🔍 Opening Indeed and searching keyword: 'seismic'
+01:26:56 [ERROR] Keyword search error for 'seismic': 'NoneType' object is not callable
+01:26:56 [WARNING]   Keyword search failed — skipping 'seismic'.
+01:26:59 [INFO] 
+🏁 Scraping complete. Total jobs: 0
+01:26:59 [INFO] 
+🏁 Done. 0 new jobs saved and sent out of 0 scraped.
+01:29:59 [INFO] ✅ Database ready.
+01:30:04 [INFO] 
+📋 6 searches queued (2 keywords × 3 locations, page 1 only)
+
+01:30:04 [INFO] 
+═══════════════════════════════════════════════════════
+01:30:04 [INFO] [1/6] 'geophysics' | 'Indonesia'
+01:30:04 [INFO] ═══════════════════════════════════════════════════════
+01:30:04 [INFO]   🌐 https://id.indeed.com/jobs?q=geophysics&l=Indonesia&from=searchOnDesktopSerp
+01:30:04 [INFO] open() in UC Mode now always activates CDP Mode.
+01:30:19 [INFO]   Found 4 cards
+01:30:19 [INFO]   ✅ +4 new | overall: 4
+01:30:19 [INFO]   ⏳ Next search in 3.8s...
+01:30:22 [INFO] 
+═══════════════════════════════════════════════════════
+01:30:22 [INFO] [2/6] 'geophysics' | 'Singapore'
+01:30:22 [INFO] ═══════════════════════════════════════════════════════
+01:30:22 [INFO]   🌐 https://id.indeed.com/jobs?q=geophysics&l=Singapore&from=searchOnDesktopSerp
+01:30:33 [INFO]   Found 4 cards
+01:30:33 [INFO]   ✅ +4 new | overall: 8
+01:30:33 [INFO]   ⏳ Next search in 3.4s...
+01:30:36 [INFO] 
+═══════════════════════════════════════════════════════
+01:30:36 [INFO] [3/6] 'geophysics' | 'Malaysia'
+01:30:36 [INFO] ═══════════════════════════════════════════════════════
+01:30:36 [INFO]   🌐 https://id.indeed.com/jobs?q=geophysics&l=Malaysia&from=searchOnDesktopSerp
+01:30:45 [INFO]   Found 4 cards
+01:30:45 [INFO]   ✅ +4 new | overall: 12
+01:30:45 [INFO]   ⏳ Next search in 5.1s...
+01:30:50 [INFO] 
+═══════════════════════════════════════════════════════
+01:30:50 [INFO] [4/6] 'seismic' | 'Indonesia'
+01:30:50 [INFO] ═══════════════════════════════════════════════════════
+01:30:50 [INFO]   🌐 https://id.indeed.com/jobs?q=seismic&l=Indonesia&from=searchOnDesktopSerp
+01:31:01 [INFO]   Found 9 cards
+01:31:01 [INFO]   ✅ +9 new | overall: 21
+01:31:01 [INFO]   ⏳ Next search in 3.1s...
+01:31:04 [INFO] 
+═══════════════════════════════════════════════════════
+01:31:04 [INFO] [5/6] 'seismic' | 'Singapore'
+01:31:04 [INFO] ═══════════════════════════════════════════════════════
+01:31:04 [INFO]   🌐 https://id.indeed.com/jobs?q=seismic&l=Singapore&from=searchOnDesktopSerp
+01:31:13 [INFO]   Found 9 cards
+01:31:13 [INFO]   ✅ +9 new | overall: 30
+01:31:13 [INFO]   ⏳ Next search in 5.8s...
+01:31:19 [INFO] 
+═══════════════════════════════════════════════════════
+01:31:19 [INFO] [6/6] 'seismic' | 'Malaysia'
+01:31:19 [INFO] ═══════════════════════════════════════════════════════
+01:31:19 [INFO]   🌐 https://id.indeed.com/jobs?q=seismic&l=Malaysia&from=searchOnDesktopSerp
+01:31:28 [INFO]   Found 9 cards
+01:31:28 [INFO]   ✅ +9 new | overall: 39
+01:31:31 [INFO] 
+🏁 Scraping complete. Total jobs: 39
+01:31:31 [ERROR] DB insert error: table jobs has no column named search_location
+01:31:31 [ERROR] DB insert error: table jobs has no column named search_location
+01:31:31 [ERROR] DB insert error: table jobs has no column named search_location
+01:31:31 [ERROR] DB insert error: table jobs has no column named search_location
+01:31:31 [ERROR] DB insert error: table jobs has no column named search_location
+01:31:31 [ERROR] DB insert error: table jobs has no column named search_location
+01:31:31 [ERROR] DB insert error: table jobs has no column named search_location
+01:31:31 [ERROR] DB insert error: table jobs has no column named search_location
+01:31:31 [ERROR] DB insert error: table jobs has no column named search_location
+01:31:31 [ERROR] DB insert error: table jobs has no column named search_location
+01:31:31 [ERROR] DB insert error: table jobs has no column named search_location
+01:31:31 [ERROR] DB insert error: table jobs has no column named search_location
+01:31:31 [ERROR] DB insert error: table jobs has no column named search_location
+01:31:31 [ERROR] DB insert error: table jobs has no column named search_location
+01:31:31 [ERROR] DB insert error: table jobs has no column named search_location
+01:31:31 [ERROR] DB insert error: table jobs has no column named search_location
+01:31:31 [ERROR] DB insert error: table jobs has no column named search_location
+01:31:31 [ERROR] DB insert error: table jobs has no column named search_location
+01:31:31 [ERROR] DB insert error: table jobs has no column named search_location
+01:31:31 [ERROR] DB insert error: table jobs has no column named search_location
+01:31:31 [ERROR] DB insert error: table jobs has no column named search_location
+01:31:31 [ERROR] DB insert error: table jobs has no column named search_location
+01:31:31 [ERROR] DB insert error: table jobs has no column named search_location
+01:31:31 [ERROR] DB insert error: table jobs has no column named search_location
+01:31:31 [ERROR] DB insert error: table jobs has no column named search_location
+01:31:31 [ERROR] DB insert error: table jobs has no column named search_location
+01:31:31 [ERROR] DB insert error: table jobs has no column named search_location
+01:31:31 [ERROR] DB insert error: table jobs has no column named search_location
+01:31:31 [ERROR] DB insert error: table jobs has no column named search_location
+01:31:31 [ERROR] DB insert error: table jobs has no column named search_location
+01:31:31 [ERROR] DB insert error: table jobs has no column named search_location
+01:31:31 [ERROR] DB insert error: table jobs has no column named search_location
+01:31:31 [ERROR] DB insert error: table jobs has no column named search_location
+01:31:31 [ERROR] DB insert error: table jobs has no column named search_location
+01:31:31 [ERROR] DB insert error: table jobs has no column named search_location
+01:31:31 [ERROR] DB insert error: table jobs has no column named search_location
+01:31:31 [ERROR] DB insert error: table jobs has no column named search_location
+01:31:31 [ERROR] DB insert error: table jobs has no column named search_location
+01:31:31 [ERROR] DB insert error: table jobs has no column named search_location
+01:31:31 [INFO] 
+🏁 Done. 0 new jobs saved and sent out of 39 scraped.
+01:36:44 [INFO] ✅ Database ready.
+01:36:49 [INFO] 
+📋 6 searches queued (2 keywords × 3 locations, page 1 only)
+
+01:36:49 [INFO] 
+═══════════════════════════════════════════════════════
+01:36:49 [INFO] [1/6] 'geophysics' | 'Indonesia'
+01:36:49 [INFO] ═══════════════════════════════════════════════════════
+01:36:49 [INFO]   🌐 https://id.indeed.com/jobs?q=geophysics&l=Indonesia&from=searchOnDesktopSerp
+01:36:49 [INFO] open() in UC Mode now always activates CDP Mode.
+01:37:05 [INFO]   Found 4 cards
+01:37:05 [INFO]   ✅ +4 new | overall: 4
+01:37:05 [INFO]   ⏳ Next search in 4.8s...
+01:37:10 [INFO] 
+═══════════════════════════════════════════════════════
+01:37:10 [INFO] [2/6] 'geophysics' | 'Singapore'
+01:37:10 [INFO] ═══════════════════════════════════════════════════════
+01:37:10 [INFO]   🌐 https://id.indeed.com/jobs?q=geophysics&l=Singapore&from=searchOnDesktopSerp
+01:37:19 [INFO]   Found 4 cards
+01:37:19 [INFO]   ✅ +4 new | overall: 8
+01:37:19 [INFO]   ⏳ Next search in 4.8s...
+01:37:24 [INFO] 
+═══════════════════════════════════════════════════════
+01:37:24 [INFO] [3/6] 'geophysics' | 'Malaysia'
+01:37:24 [INFO] ═══════════════════════════════════════════════════════
+01:37:24 [INFO]   🌐 https://id.indeed.com/jobs?q=geophysics&l=Malaysia&from=searchOnDesktopSerp
+01:37:35 [INFO]   Found 4 cards
+01:37:35 [INFO]   ✅ +4 new | overall: 12
+01:37:35 [INFO]   ⏳ Next search in 4.4s...
+01:37:40 [INFO] 
+═══════════════════════════════════════════════════════
+01:37:40 [INFO] [4/6] 'seismic' | 'Indonesia'
+01:37:40 [INFO] ═══════════════════════════════════════════════════════
+01:37:40 [INFO]   🌐 https://id.indeed.com/jobs?q=seismic&l=Indonesia&from=searchOnDesktopSerp
+01:37:50 [INFO]   Found 9 cards
+01:37:50 [INFO]   ✅ +9 new | overall: 21
+01:37:50 [INFO]   ⏳ Next search in 3.1s...
+01:37:53 [INFO] 
+═══════════════════════════════════════════════════════
+01:37:53 [INFO] [5/6] 'seismic' | 'Singapore'
+01:37:53 [INFO] ═══════════════════════════════════════════════════════
+01:37:53 [INFO]   🌐 https://id.indeed.com/jobs?q=seismic&l=Singapore&from=searchOnDesktopSerp
+01:38:02 [INFO]   Found 9 cards
+01:38:02 [INFO]   ✅ +9 new | overall: 30
+01:38:02 [INFO]   ⏳ Next search in 4.1s...
+01:38:06 [INFO] 
+═══════════════════════════════════════════════════════
+01:38:06 [INFO] [6/6] 'seismic' | 'Malaysia'
+01:38:06 [INFO] ═══════════════════════════════════════════════════════
+01:38:06 [INFO]   🌐 https://id.indeed.com/jobs?q=seismic&l=Malaysia&from=searchOnDesktopSerp
+01:38:15 [INFO]   Found 9 cards
+01:38:15 [INFO]   ✅ +9 new | overall: 39
+01:38:18 [INFO] 
+🏁 Scraping complete. Total jobs: 39
+01:38:18 [ERROR] DB insert error: table jobs has no column named search_location
+01:38:18 [ERROR] DB insert error: table jobs has no column named search_location
+01:38:18 [ERROR] DB insert error: table jobs has no column named search_location
+01:38:18 [ERROR] DB insert error: table jobs has no column named search_location
+01:38:18 [ERROR] DB insert error: table jobs has no column named search_location
+01:38:18 [ERROR] DB insert error: table jobs has no column named search_location
+01:38:18 [ERROR] DB insert error: table jobs has no column named search_location
+01:38:18 [ERROR] DB insert error: table jobs has no column named search_location
+01:38:18 [ERROR] DB insert error: table jobs has no column named search_location
+01:38:18 [ERROR] DB insert error: table jobs has no column named search_location
+01:38:18 [ERROR] DB insert error: table jobs has no column named search_location
+01:38:18 [ERROR] DB insert error: table jobs has no column named search_location
+01:38:18 [ERROR] DB insert error: table jobs has no column named search_location
+01:38:18 [ERROR] DB insert error: table jobs has no column named search_location
+01:38:18 [ERROR] DB insert error: table jobs has no column named search_location
+01:38:18 [ERROR] DB insert error: table jobs has no column named search_location
+01:38:18 [ERROR] DB insert error: table jobs has no column named search_location
+01:38:18 [ERROR] DB insert error: table jobs has no column named search_location
+01:38:18 [ERROR] DB insert error: table jobs has no column named search_location
+01:38:18 [ERROR] DB insert error: table jobs has no column named search_location
+01:38:18 [ERROR] DB insert error: table jobs has no column named search_location
+01:38:18 [ERROR] DB insert error: table jobs has no column named search_location
+01:38:18 [ERROR] DB insert error: table jobs has no column named search_location
+01:38:18 [ERROR] DB insert error: table jobs has no column named search_location
+01:38:18 [ERROR] DB insert error: table jobs has no column named search_location
+01:38:18 [ERROR] DB insert error: table jobs has no column named search_location
+01:38:18 [ERROR] DB insert error: table jobs has no column named search_location
+01:38:18 [ERROR] DB insert error: table jobs has no column named search_location
+01:38:18 [ERROR] DB insert error: table jobs has no column named search_location
+01:38:18 [ERROR] DB insert error: table jobs has no column named search_location
+01:38:18 [ERROR] DB insert error: table jobs has no column named search_location
+01:38:18 [ERROR] DB insert error: table jobs has no column named search_location
+01:38:18 [ERROR] DB insert error: table jobs has no column named search_location
+01:38:18 [ERROR] DB insert error: table jobs has no column named search_location
+01:38:18 [ERROR] DB insert error: table jobs has no column named search_location
+01:38:18 [ERROR] DB insert error: table jobs has no column named search_location
+01:38:18 [ERROR] DB insert error: table jobs has no column named search_location
+01:38:18 [ERROR] DB insert error: table jobs has no column named search_location
+01:38:18 [ERROR] DB insert error: table jobs has no column named search_location
+01:38:18 [INFO] 
+🏁 Done. 0 new jobs saved and sent out of 39 scraped.
+01:38:44 [INFO] ✅ Database ready.
+01:38:47 [INFO] 
+📋 6 searches queued (2 keywords × 3 locations, page 1 only)
+
+01:38:47 [INFO] 
+═══════════════════════════════════════════════════════
+01:38:47 [INFO] [1/6] 'geophysics' | 'Indonesia'
+01:38:47 [INFO] ═══════════════════════════════════════════════════════
+01:38:47 [INFO]   🌐 https://id.indeed.com/jobs?q=geophysics&l=Indonesia&from=searchOnDesktopSerp
+01:38:47 [INFO] open() in UC Mode now always activates CDP Mode.
+01:39:07 [INFO] ✅ Database ready.
+01:39:11 [INFO] 
+📋 4 searches queued (2 keywords × 2 locations, page 1 only)
+
+01:39:11 [INFO] 
+═══════════════════════════════════════════════════════
+01:39:11 [INFO] [1/4] 'geophysics' | 'Indonesia'
+01:39:11 [INFO] ═══════════════════════════════════════════════════════
+01:39:11 [INFO]   🌐 https://id.indeed.com/jobs?q=geophysics&l=Indonesia&from=searchOnDesktopSerp
+01:39:11 [INFO] open() in UC Mode now always activates CDP Mode.
+01:39:25 [INFO]   Found 4 cards
+01:39:25 [INFO]   ✅ +4 new | overall: 4
+01:39:25 [INFO]   ⏳ Next search in 5.3s...
+01:39:30 [INFO] 
+═══════════════════════════════════════════════════════
+01:39:30 [INFO] [2/4] 'geophysics' | 'Malaysia'
+01:39:30 [INFO] ═══════════════════════════════════════════════════════
+01:39:30 [INFO]   🌐 https://id.indeed.com/jobs?q=geophysics&l=Malaysia&from=searchOnDesktopSerp
+01:39:41 [INFO]   Found 4 cards
+01:39:41 [INFO]   ✅ +4 new | overall: 8
+01:39:41 [INFO]   ⏳ Next search in 3.1s...
+01:39:44 [INFO] 
+═══════════════════════════════════════════════════════
+01:39:44 [INFO] [3/4] 'seismic' | 'Indonesia'
+01:39:44 [INFO] ═══════════════════════════════════════════════════════
+01:39:44 [INFO]   🌐 https://id.indeed.com/jobs?q=seismic&l=Indonesia&from=searchOnDesktopSerp
+01:39:54 [INFO]   Found 9 cards
+01:39:54 [INFO]   ✅ +9 new | overall: 17
+01:39:54 [INFO]   ⏳ Next search in 5.9s...
+01:40:00 [INFO] 
+═══════════════════════════════════════════════════════
+01:40:00 [INFO] [4/4] 'seismic' | 'Malaysia'
+01:40:00 [INFO] ═══════════════════════════════════════════════════════
+01:40:00 [INFO]   🌐 https://id.indeed.com/jobs?q=seismic&l=Malaysia&from=searchOnDesktopSerp
+01:40:11 [INFO]   Found 9 cards
+01:40:11 [INFO]   ✅ +9 new | overall: 26
+01:40:14 [INFO] 
+🏁 Scraping complete. Total jobs: 26
+01:40:14 [ERROR] DB insert error: table jobs has no column named search_location
+01:40:14 [ERROR] DB insert error: table jobs has no column named search_location
+01:40:14 [ERROR] DB insert error: table jobs has no column named search_location
+01:40:14 [ERROR] DB insert error: table jobs has no column named search_location
+01:40:14 [ERROR] DB insert error: table jobs has no column named search_location
+01:40:14 [ERROR] DB insert error: table jobs has no column named search_location
+01:40:14 [ERROR] DB insert error: table jobs has no column named search_location
+01:40:14 [ERROR] DB insert error: table jobs has no column named search_location
+01:40:14 [ERROR] DB insert error: table jobs has no column named search_location
+01:40:14 [ERROR] DB insert error: table jobs has no column named search_location
+01:40:14 [ERROR] DB insert error: table jobs has no column named search_location
+01:40:14 [ERROR] DB insert error: table jobs has no column named search_location
+01:40:14 [ERROR] DB insert error: table jobs has no column named search_location
+01:40:14 [ERROR] DB insert error: table jobs has no column named search_location
+01:40:14 [ERROR] DB insert error: table jobs has no column named search_location
+01:40:14 [ERROR] DB insert error: table jobs has no column named search_location
+01:40:14 [ERROR] DB insert error: table jobs has no column named search_location
+01:40:14 [ERROR] DB insert error: table jobs has no column named search_location
+01:40:14 [ERROR] DB insert error: table jobs has no column named search_location
+01:40:14 [ERROR] DB insert error: table jobs has no column named search_location
+01:40:14 [ERROR] DB insert error: table jobs has no column named search_location
+01:40:14 [ERROR] DB insert error: table jobs has no column named search_location
+01:40:14 [ERROR] DB insert error: table jobs has no column named search_location
+01:40:14 [ERROR] DB insert error: table jobs has no column named search_location
+01:40:14 [ERROR] DB insert error: table jobs has no column named search_location
+01:40:14 [ERROR] DB insert error: table jobs has no column named search_location
+01:40:15 [INFO] 📬 Summary sent to Telegram.
+01:54:16 [INFO] ✅ Database ready.
+01:54:20 [INFO] 
+📋 4 searches queued (2 keywords × 2 locations, page 1 only)
+
+01:54:20 [INFO] 
+═══════════════════════════════════════════════════════
+01:54:20 [INFO] [1/4] 'geophysics' | 'Indonesia'
+01:54:20 [INFO] ═══════════════════════════════════════════════════════
+01:54:20 [INFO]   🌐 https://id.indeed.com/jobs?q=geophysics&l=Indonesia&from=searchOnDesktopSerp
+01:54:20 [INFO] open() in UC Mode now always activates CDP Mode.
+01:54:34 [INFO]   Found 4 cards
+01:54:34 [INFO]   ✅ +4 new | overall: 4
+01:54:34 [INFO]   ⏳ Next search in 4.8s...
+01:54:39 [INFO] 
+═══════════════════════════════════════════════════════
+01:54:39 [INFO] [2/4] 'geophysics' | 'Malaysia'
+01:54:39 [INFO] ═══════════════════════════════════════════════════════
+01:54:39 [INFO]   🌐 https://id.indeed.com/jobs?q=geophysics&l=Malaysia&from=searchOnDesktopSerp
+01:54:48 [INFO]   Found 4 cards
+01:54:48 [INFO]   ✅ +4 new | overall: 8
+01:54:48 [INFO]   ⏳ Next search in 4.0s...
+01:54:52 [INFO] 
+═══════════════════════════════════════════════════════
+01:54:52 [INFO] [3/4] 'seismic' | 'Indonesia'
+01:54:52 [INFO] ═══════════════════════════════════════════════════════
+01:54:52 [INFO]   🌐 https://id.indeed.com/jobs?q=seismic&l=Indonesia&from=searchOnDesktopSerp
+01:55:03 [INFO]   Found 9 cards
+01:55:03 [INFO]   ✅ +9 new | overall: 17
+01:55:03 [INFO]   ⏳ Next search in 5.5s...
+01:55:08 [INFO] 
+═══════════════════════════════════════════════════════
+01:55:08 [INFO] [4/4] 'seismic' | 'Malaysia'
+01:55:08 [INFO] ═══════════════════════════════════════════════════════
+01:55:08 [INFO]   🌐 https://id.indeed.com/jobs?q=seismic&l=Malaysia&from=searchOnDesktopSerp
+01:55:19 [INFO]   Found 9 cards
+01:55:19 [INFO]   ✅ +9 new | overall: 26
+01:55:22 [INFO] 
+🏁 Scraping complete. Total jobs: 26
+01:55:22 [ERROR] DB insert error: table jobs has no column named search_location
+01:55:22 [ERROR] DB insert error: table jobs has no column named search_location
+01:55:22 [ERROR] DB insert error: table jobs has no column named search_location
+01:55:22 [ERROR] DB insert error: table jobs has no column named search_location
+01:55:22 [ERROR] DB insert error: table jobs has no column named search_location
+01:55:22 [ERROR] DB insert error: table jobs has no column named search_location
+01:55:22 [ERROR] DB insert error: table jobs has no column named search_location
+01:55:22 [ERROR] DB insert error: table jobs has no column named search_location
+01:55:22 [ERROR] DB insert error: table jobs has no column named search_location
+01:55:22 [ERROR] DB insert error: table jobs has no column named search_location
+01:55:22 [ERROR] DB insert error: table jobs has no column named search_location
+01:55:22 [ERROR] DB insert error: table jobs has no column named search_location
+01:55:22 [ERROR] DB insert error: table jobs has no column named search_location
+01:55:22 [ERROR] DB insert error: table jobs has no column named search_location
+01:55:22 [ERROR] DB insert error: table jobs has no column named search_location
+01:55:22 [ERROR] DB insert error: table jobs has no column named search_location
+01:55:22 [ERROR] DB insert error: table jobs has no column named search_location
+01:55:22 [ERROR] DB insert error: table jobs has no column named search_location
+01:55:22 [ERROR] DB insert error: table jobs has no column named search_location
+01:55:22 [ERROR] DB insert error: table jobs has no column named search_location
+01:55:22 [ERROR] DB insert error: table jobs has no column named search_location
+01:55:22 [ERROR] DB insert error: table jobs has no column named search_location
+01:55:22 [ERROR] DB insert error: table jobs has no column named search_location
+01:55:22 [ERROR] DB insert error: table jobs has no column named search_location
+01:55:22 [ERROR] DB insert error: table jobs has no column named search_location
+01:55:22 [ERROR] DB insert error: table jobs has no column named search_location
+01:55:23 [INFO] 📬 Summary sent to Telegram.
+01:57:32 [INFO]   🔧 Migrated DB: added column 'search_location'
+01:57:32 [INFO] ✅ Database ready.
+01:57:36 [INFO] 
+📋 4 searches queued (2 keywords × 2 locations, page 1 only)
+
+01:57:36 [INFO] 
+═══════════════════════════════════════════════════════
+01:57:36 [INFO] [1/4] 'geophysics' | 'Indonesia'
+01:57:36 [INFO] ═══════════════════════════════════════════════════════
+01:57:36 [INFO]   🌐 https://id.indeed.com/jobs?q=geophysics&l=Indonesia&from=searchOnDesktopSerp
+01:57:36 [INFO] open() in UC Mode now always activates CDP Mode.
+01:57:50 [INFO]   Found 4 cards
+01:57:50 [INFO]   ✅ +4 new | overall: 4
+01:57:50 [INFO]   ⏳ Next search in 3.5s...
+01:57:54 [INFO] 
+═══════════════════════════════════════════════════════
+01:57:54 [INFO] [2/4] 'geophysics' | 'Malaysia'
+01:57:54 [INFO] ═══════════════════════════════════════════════════════
+01:57:54 [INFO]   🌐 https://id.indeed.com/jobs?q=geophysics&l=Malaysia&from=searchOnDesktopSerp
+01:58:05 [INFO]   Found 4 cards
+01:58:05 [INFO]   ✅ +4 new | overall: 8
+01:58:05 [INFO]   ⏳ Next search in 5.4s...
+01:58:10 [INFO] 
+═══════════════════════════════════════════════════════
+01:58:10 [INFO] [3/4] 'seismic' | 'Indonesia'
+01:58:10 [INFO] ═══════════════════════════════════════════════════════
+01:58:10 [INFO]   🌐 https://id.indeed.com/jobs?q=seismic&l=Indonesia&from=searchOnDesktopSerp
+01:58:20 [INFO]   Found 9 cards
+01:58:20 [INFO]   ✅ +9 new | overall: 17
+01:58:20 [INFO]   ⏳ Next search in 5.2s...
+01:58:26 [INFO] 
+═══════════════════════════════════════════════════════
+01:58:26 [INFO] [4/4] 'seismic' | 'Malaysia'
+01:58:26 [INFO] ═══════════════════════════════════════════════════════
+01:58:26 [INFO]   🌐 https://id.indeed.com/jobs?q=seismic&l=Malaysia&from=searchOnDesktopSerp
+01:58:36 [INFO]   Found 9 cards
+01:58:36 [INFO]   ✅ +9 new | overall: 26
+01:58:38 [INFO] 
+🏁 Scraping complete. Total jobs: 26
+01:58:40 [INFO] 📬 Summary sent to Telegram.
+01:59:39 [INFO] ✅ Database ready.
+01:59:43 [INFO] 
+📋 4 searches queued (2 keywords × 2 locations, page 1 only)
+
+01:59:43 [INFO] 
+═══════════════════════════════════════════════════════
+01:59:43 [INFO] [1/4] 'geophysics' | 'Indonesia'
+01:59:43 [INFO] ═══════════════════════════════════════════════════════
+01:59:43 [INFO]   🌐 https://id.indeed.com/jobs?q=geophysics&l=Indonesia&from=searchOnDesktopSerp
+01:59:43 [INFO] open() in UC Mode now always activates CDP Mode.
+01:59:58 [INFO]   Found 4 cards
+01:59:58 [INFO]   ✅ +4 new | overall: 4
+01:59:58 [INFO]   ⏳ Next search in 6.0s...
+02:00:04 [INFO] 
+═══════════════════════════════════════════════════════
+02:00:04 [INFO] [2/4] 'geophysics' | 'Malaysia'
+02:00:04 [INFO] ═══════════════════════════════════════════════════════
+02:00:04 [INFO]   🌐 https://id.indeed.com/jobs?q=geophysics&l=Malaysia&from=searchOnDesktopSerp
+02:00:13 [INFO]   Found 4 cards
+02:00:13 [INFO]   ✅ +4 new | overall: 8
+02:00:13 [INFO]   ⏳ Next search in 4.0s...
+02:00:17 [INFO] 
+═══════════════════════════════════════════════════════
+02:00:17 [INFO] [3/4] 'seismic' | 'Indonesia'
+02:00:17 [INFO] ═══════════════════════════════════════════════════════
+02:00:17 [INFO]   🌐 https://id.indeed.com/jobs?q=seismic&l=Indonesia&from=searchOnDesktopSerp
+02:00:27 [INFO]   Found 9 cards
+02:00:27 [INFO]   ✅ +9 new | overall: 17
+02:00:27 [INFO]   ⏳ Next search in 4.6s...
+02:00:32 [INFO] 
+═══════════════════════════════════════════════════════
+02:00:32 [INFO] [4/4] 'seismic' | 'Malaysia'
+02:00:32 [INFO] ═══════════════════════════════════════════════════════
+02:00:32 [INFO]   🌐 https://id.indeed.com/jobs?q=seismic&l=Malaysia&from=searchOnDesktopSerp
+02:00:41 [INFO]   Found 9 cards
+02:00:41 [INFO]   ✅ +9 new | overall: 26
+02:00:44 [INFO] 
+🏁 Scraping complete. Total jobs: 26
+02:00:45 [INFO]   📨 Sent: Unknown Title @ Unknown [geophysics]
+02:00:47 [INFO] 📬 Summary sent to Telegram.
+02:18:12 [INFO] ✅ Database ready.
+02:18:17 [INFO] 
+📋 4 searches queued (2 keywords × 2 locations, page 1 only)
+
+02:18:17 [INFO] 
+═══════════════════════════════════════════════════════
+02:18:17 [INFO] [1/4] 'geophysics' | 'Indonesia'
+02:18:17 [INFO] ═══════════════════════════════════════════════════════
+02:18:17 [INFO]   🌐 https://id.indeed.com/jobs?q=geophysics&l=Indonesia&from=searchOnDesktopSerp
+02:18:17 [INFO] open() in UC Mode now always activates CDP Mode.
+02:18:30 [INFO]   Found 4 cards
+02:18:30 [INFO]   ✅ +4 new | overall: 4
+02:18:30 [INFO]   ⏳ Next search in 4.0s...
+02:18:34 [INFO] 
+═══════════════════════════════════════════════════════
+02:18:34 [INFO] [2/4] 'geophysics' | 'Malaysia'
+02:18:34 [INFO] ═══════════════════════════════════════════════════════
+02:18:34 [INFO]   🌐 https://id.indeed.com/jobs?q=geophysics&l=Malaysia&from=searchOnDesktopSerp
+02:18:45 [INFO]   Found 4 cards
+02:18:45 [INFO]   ✅ +4 new | overall: 8
+02:18:45 [INFO]   ⏳ Next search in 4.3s...
+02:18:49 [INFO] 
+═══════════════════════════════════════════════════════
+02:18:49 [INFO] [3/4] 'seismic' | 'Indonesia'
+02:18:49 [INFO] ═══════════════════════════════════════════════════════
+02:18:49 [INFO]   🌐 https://id.indeed.com/jobs?q=seismic&l=Indonesia&from=searchOnDesktopSerp
+02:18:58 [INFO]   Found 9 cards
+02:18:58 [INFO]   ✅ +9 new | overall: 17
+02:18:58 [INFO]   ⏳ Next search in 4.6s...
+02:19:03 [INFO] 
+═══════════════════════════════════════════════════════
+02:19:03 [INFO] [4/4] 'seismic' | 'Malaysia'
+02:19:03 [INFO] ═══════════════════════════════════════════════════════
+02:19:03 [INFO]   🌐 https://id.indeed.com/jobs?q=seismic&l=Malaysia&from=searchOnDesktopSerp
+02:19:12 [INFO]   Found 9 cards
+02:19:12 [INFO]   ✅ +9 new | overall: 26
+02:19:15 [INFO] 
+🏁 Scraping complete. Total jobs: 26
+02:19:17 [INFO] 📬 Summary sent to Telegram.
+02:20:50 [INFO] ✅ Database ready.
+02:20:55 [INFO] 
+📋 4 searches queued (2 keywords × 2 locations, page 1 only)
+
+02:20:55 [INFO] 
+═══════════════════════════════════════════════════════
+02:20:55 [INFO] [1/4] 'geophysics' | 'Indonesia'
+02:20:55 [INFO] ═══════════════════════════════════════════════════════
+02:20:55 [INFO]   🌐 https://id.indeed.com/jobs?q=geophysics&l=Indonesia&from=searchOnDesktopSerp
+02:20:55 [INFO] open() in UC Mode now always activates CDP Mode.
+02:21:09 [INFO]   Found 4 cards
+02:21:09 [INFO]   ✅ +4 new | overall: 4
+02:21:09 [INFO]   ⏳ Next search in 4.3s...
+02:21:14 [INFO] 
+═══════════════════════════════════════════════════════
+02:21:14 [INFO] [2/4] 'geophysics' | 'Malaysia'
+02:21:14 [INFO] ═══════════════════════════════════════════════════════
+02:21:14 [INFO]   🌐 https://id.indeed.com/jobs?q=geophysics&l=Malaysia&from=searchOnDesktopSerp
+02:21:25 [INFO]   Found 4 cards
+02:21:25 [INFO]   ✅ +4 new | overall: 8
+02:21:25 [INFO]   ⏳ Next search in 4.4s...
+02:21:29 [INFO] 
+═══════════════════════════════════════════════════════
+02:21:29 [INFO] [3/4] 'seismic' | 'Indonesia'
+02:21:29 [INFO] ═══════════════════════════════════════════════════════
+02:21:29 [INFO]   🌐 https://id.indeed.com/jobs?q=seismic&l=Indonesia&from=searchOnDesktopSerp
+02:21:40 [INFO]   Found 8 cards
+02:21:40 [INFO]   ✅ +8 new | overall: 16
+02:21:40 [INFO]   ⏳ Next search in 5.3s...
+02:21:45 [INFO] 
+═══════════════════════════════════════════════════════
+02:21:45 [INFO] [4/4] 'seismic' | 'Malaysia'
+02:21:45 [INFO] ═══════════════════════════════════════════════════════
+02:21:45 [INFO]   🌐 https://id.indeed.com/jobs?q=seismic&l=Malaysia&from=searchOnDesktopSerp
+02:21:57 [INFO]   Found 8 cards
+02:21:57 [INFO]   ✅ +8 new | overall: 24
+02:22:00 [INFO] 
+🏁 Scraping complete. Total jobs: 24
+02:22:01 [INFO] 📬 Summary sent to Telegram.
+02:24:16 [INFO] ✅ Database ready.
+02:24:20 [INFO] 
+📋 1 searches queued (1 keywords × 1 locations, page 1 only)
+
+02:24:20 [INFO] 
+═══════════════════════════════════════════════════════
+02:24:20 [INFO] [1/1] 'geophysics' | 'Indonesia'
+02:24:20 [INFO] ═══════════════════════════════════════════════════════
+02:24:20 [INFO]   🌐 https://id.indeed.com/jobs?q=geophysics&l=Indonesia&from=searchOnDesktopSerp
+02:24:20 [INFO] open() in UC Mode now always activates CDP Mode.
+02:24:34 [INFO]   Found 4 cards
+02:24:34 [INFO]   ✅ +4 new | overall: 4
+02:24:37 [INFO] 
+🏁 Scraping complete. Total jobs: 4
+02:24:38 [INFO] 📬 Summary sent to Telegram.
+02:36:17 [INFO] ✅ Database ready.
+02:36:21 [INFO] 
+📋 1 searches queued (1 keywords × 1 locations, page 1 only)
+
+02:36:21 [INFO] 
+═══════════════════════════════════════════════════════
+02:36:21 [INFO] [1/1] 'geophysics' | 'Indonesia'
+02:36:21 [INFO] ═══════════════════════════════════════════════════════
+02:36:21 [INFO]   🌐 https://id.indeed.com/jobs?q=geophysics&l=Indonesia&from=searchOnDesktopSerp
+02:36:21 [INFO] open() in UC Mode now always activates CDP Mode.
+02:36:36 [INFO]   Found 4 cards
+02:36:36 [INFO]   ✅ +4 new | overall: 4
+02:36:39 [INFO] 
+🏁 Scraping complete. Total jobs: 4
+02:36:40 [INFO]   📨 Sent: Unknown Title @  [geophysics]
+02:36:41 [INFO] 📬 Summary sent to Telegram.
+02:37:52 [INFO] ✅ Database ready.
+02:37:56 [INFO] 
+📋 1 searches queued (1 keywords × 1 locations, page 1 only)
+
+02:37:56 [INFO] 
+═══════════════════════════════════════════════════════
+02:37:56 [INFO] [1/1] 'geophysics' | 'Indonesia'
+02:37:56 [INFO] ═══════════════════════════════════════════════════════
+02:37:56 [INFO]   🌐 https://id.indeed.com/jobs?q=geophysics&l=Indonesia&from=searchOnDesktopSerp
+02:37:56 [INFO] open() in UC Mode now always activates CDP Mode.
+02:38:10 [INFO]   Found 4 cards
+02:38:10 [INFO]   ✅ +4 new | overall: 4
+02:38:13 [INFO] 
+🏁 Scraping complete. Total jobs: 4
+02:38:14 [INFO] 📬 Summary sent to Telegram.
