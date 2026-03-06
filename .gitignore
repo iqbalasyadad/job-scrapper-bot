@@ -1,5 +1,6 @@
-# Ignore the local configuration file
-config.yaml
+# Ignore file
+.env
 
+# Ignore folder
 venv/ 
 old/

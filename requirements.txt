@@ -1,3 +1,4 @@
-python-telegram-bot
+python-telegram-bot[job-queue]>=20.0,<21.0
 seleniumbase
 pyyaml
+python-dotenv
