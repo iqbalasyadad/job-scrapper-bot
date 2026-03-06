@@ -1,44 +1,103 @@
 threading.py:1015:SB
 --------------------------------------------------------------------
-Last Page: https://www.linkedin.com/jobs/search/?keywords=seismic&location=Indonesia&f_TPR=r86400
- Duration: 16.67s
+Last Page: chrome://new-tab-page/
+ Duration: 12.31s
   Browser: Chrome 145.0.7632.160 / headless
    Driver: chromedriver 145.0.7632.117
-Timestamp: 1772765925  (Unix Timestamp)
+Timestamp: 1772785659  (Unix Timestamp)
      Date: Friday, 6 March 2026
-     Time: 9:58:45 AM  (SE Asia Standard Time, UTC+07:00)
+     Time: 3:27:39 PM  (SE Asia Standard Time, UTC+07:00)
 --------------------------------------------------------------------
 Traceback:
-  File "C:\Users\asyad\Documents\Iqbal\Programs\Fun\telegram-bot\job-scrapper-bot\files\bot.py", line 361, in <module>
-    main()
-    ~~~~^^
-  File "C:\Users\asyad\Documents\Iqbal\Programs\Fun\telegram-bot\job-scrapper-bot\files\bot.py", line 357, in main
-    app.run_polling(allowed_updates=Update.ALL_TYPES)
-    ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "C:\Users\asyad\Documents\Iqbal\Programs\Fun\telegram-bot\job-scrapper-bot\venv\Lib\site-packages\telegram\ext\_application.py", line 839, in run_polling
-    return self.__run(
-           ~~~~~~~~~~^
-        updater_coroutine=self.updater.start_polling(
-        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-    ...<9 lines>...
-        close_loop=close_loop,
-        ^^^^^^^^^^^^^^^^^^^^^^
+  Traceback (most recent call last):
+  File "C:\Users\iqbal\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\seleniumbase\undetected\cdp_driver\browser.py", line 125, in create
+    await instance.start()
+  File "C:\Users\iqbal\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\seleniumbase\undetected\cdp_driver\browser.py", line 640, in start
+    raise Exception(
+    ...<5 lines>...
+    )
+Exception: 
+                --------------------------------
+                Failed to connect to the browser
+                --------------------------------
+                
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\iqbal\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\seleniumbase\undetected\cdp_driver\cdp_util.py", line 686, in start
+    driver = await Browser.create(config)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\iqbal\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\seleniumbase\undetected\cdp_driver\browser.py", line 129, in create
+    await instance.start()
+  File "C:\Users\iqbal\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\seleniumbase\undetected\cdp_driver\browser.py", line 640, in start
+    raise Exception(
+    ...<5 lines>...
+    )
+Exception: 
+                --------------------------------
+                Failed to connect to the browser
+                --------------------------------
+                
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\iqbal\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\seleniumbase\undetected\cdp_driver\browser.py", line 125, in create
+    await instance.start()
+  File "C:\Users\iqbal\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\seleniumbase\undetected\cdp_driver\browser.py", line 640, in start
+    raise Exception(
+    ...<5 lines>...
+    )
+Exception: 
+                --------------------------------
+                Failed to connect to the browser
+                --------------------------------
+                
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\iqbal\Documents\Programs\Fun\telegram-bot\job-scrapper-bot\scraper_indeed.py", line 32, in scrape
+    sb.open(url)
+    ~~~~~~~^^^^^
+  File "C:\Users\iqbal\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\seleniumbase\fixtures\base_case.py", line 239, in open
+    self.activate_cdp_mode(url, **kwargs)
+    ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "C:\Users\iqbal\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\seleniumbase\fixtures\base_case.py", line 5073, in activate_cdp_mode
+    self.driver.uc_open_with_cdp_mode(url, **kwargs)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "C:\Users\iqbal\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\seleniumbase\core\browser_launcher.py", line 5956, in <lambda>
+    lambda *args, **kwargs: uc_open_with_cdp_mode(
+                            ~~~~~~~~~~~~~~~~~~~~~^
+        driver, *args, **kwargs
+        ^^^^^^^^^^^^^^^^^^^^^^^
     )
     ^
-  File "C:\Users\asyad\Documents\Iqbal\Programs\Fun\telegram-bot\job-scrapper-bot\venv\Lib\site-packages\telegram\ext\_application.py", line 1073, in __run
-    loop.run_until_complete(self.updater.stop())  # type: ignore[union-attr]
-    ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
-  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.3312.0_x64__qbz5n2kfra8p0\Lib\asyncio\base_events.py", line 712, in run_until_complete
-    self.run_forever()
-    ~~~~~~~~~~~~~~~~^^
-  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.3312.0_x64__qbz5n2kfra8p0\Lib\asyncio\base_events.py", line 683, in run_forever
-    self._run_once()
-    ~~~~~~~~~~~~~~^^
-  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.3312.0_x64__qbz5n2kfra8p0\Lib\asyncio\base_events.py", line 2012, in _run_once
-    event_list = self._selector.select(timeout)
-  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.3312.0_x64__qbz5n2kfra8p0\Lib\asyncio\windows_events.py", line 446, in select
-    self._poll(timeout)
-    ~~~~~~~~~~^^^^^^^^^
-  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.3312.0_x64__qbz5n2kfra8p0\Lib\asyncio\windows_events.py", line 775, in _poll
-    status = _overlapped.GetQueuedCompletionStatus(self._iocp, ms)
+  File "C:\Users\iqbal\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\seleniumbase\core\browser_launcher.py", line 692, in uc_open_with_cdp_mode
+    driver.cdp_base = loop.run_until_complete(
+                      ~~~~~~~~~~~~~~~~~~~~~~~^
+        cdp_util.start(
+        ^^^^^^^^^^^^^^^
+    ...<8 lines>...
+        )
+        ^
+    )
+    ^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.3312.0_x64__qbz5n2kfra8p0\Lib\asyncio\base_events.py", line 725, in run_until_complete
+    return future.result()
+           ~~~~~~~~~~~~~^^
+  File "C:\Users\iqbal\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\seleniumbase\undetected\cdp_driver\cdp_util.py", line 694, in start
+    driver = await Browser.create(config)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\iqbal\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\seleniumbase\undetected\cdp_driver\browser.py", line 129, in create
+    await instance.start()
+  File "C:\Users\iqbal\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\seleniumbase\undetected\cdp_driver\browser.py", line 640, in start
+    raise Exception(
+    ...<5 lines>...
+    )
 Exception: 
+                --------------------------------
+                Failed to connect to the browser
+                --------------------------------
+                
