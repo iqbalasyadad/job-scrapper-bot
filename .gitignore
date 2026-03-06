@@ -1,3 +1,5 @@
+# Ignore the local configuration file
 config.yaml
+
 venv/ 
 old/
