@@ -1,6 +1,3 @@
-# Ignore file
 .env
-
-# Ignore folder
-venv/ 
+venv/
 old/
