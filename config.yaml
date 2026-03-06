@@ -1,6 +1,7 @@
 # ── Search Settings ───────────────────────────────────────────────────────────
 keywords:
   - geophysics
+  - seismic
 
 location:
   - Indonesia
@@ -8,6 +9,10 @@ location:
 # ── Browser Settings ──────────────────────────────────────────────────────────
 # Match this to your installed Chrome version  →  chrome --version
 driver_version: "145"
+
+# ── Scraper Settings ──────────────────────────────────────────────────────────
+# How often to auto-scrape (in hours). Set 0 to disable auto-scrape.
+auto_scrape_interval_hours: 0
 
 # ── Telegram ──────────────────────────────────────────────────────────────────
 telegram:
