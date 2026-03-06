@@ -360,7 +360,7 @@ async def callback_handler(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
     elif data.startswith("scrape_"):
         source = data.replace("scrape_", "")
-        await query.message.reply_text(f"⏳ Scraping *{source}*...", parse_mode="Markdown")
+        # await query.message.reply_text(f"⏳ Scraping *{source}*...", parse_mode="Markdown")
         summary, added = await run_scrape(notify_target=query.message, source_filter=source)
         await query.message.reply_text(summary, parse_mode="Markdown")
         if added > 0:
